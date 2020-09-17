@@ -1,4 +1,4 @@
-// Mi primer proyecto
+// Este fue mi primer proyecto de programación para la materia Geometría Analítica en el primer semestre de 2019.
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
